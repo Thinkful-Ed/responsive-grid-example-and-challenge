@@ -58,17 +58,18 @@
     width: 25%;
   }
 
-  /* 4 columns */
+  /* 4 columns, 4/12 in % */
   .col-4 {
     width: 33.33%;
   }
 
-  /* 6 columns */
+  /* 6 columns 6/12 in % */
   .col-6 {
-
+    width: 50%;
   }
 
-  /* 12 columns */
+  /* 12 columns, 12/12 */
   .col-12 {
+    width: 100%;
   }
 }
